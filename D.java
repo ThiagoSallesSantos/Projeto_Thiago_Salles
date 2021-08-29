@@ -2,7 +2,7 @@ public class D{
 	
 	//Atributos privados
 	private double D1;
-	private boolean D2;
+	private boolean D2 = false;
 	
 	public void MD1(){
 		System.out.println("MD1()");
